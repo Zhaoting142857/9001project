@@ -8,7 +8,6 @@ players = ['X', 'O']
 scores = {'X': 0, 'O': 0}  # Record points each player
 wins = {'X': 0, 'O': 0}    # Number of wins each player
 grid = []
-#move_history = []  # Store moves (though unused)
 
 # Input validation
 while True:
